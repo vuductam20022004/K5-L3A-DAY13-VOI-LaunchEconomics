@@ -4,30 +4,30 @@
 
 ## Hai bộ nhãn độc lập
 
-Người gắn nhãn 1: Người 3 (phân loại lõi C) · Người gắn nhãn 2: Người 4 (gắn độc lập, giữ riêng bộ nhãn đến khi cả hai hoàn thành) — gắn trong 8 phút, không trao đổi.
+Người gắn nhãn 1: Chu Mai Hong (2A202603377, Người 3 — phân loại lõi C) · Người gắn nhãn 2: Người 4 (gắn độc lập, giữ riêng bộ nhãn đến khi cả hai hoàn thành) — gắn trong 8 phút, không trao đổi; bộ nhãn 2 của Người 4 nhận qua tin nhắn ngày lab.
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
-| 1 | Do người dùng | *(chờ Người 4)* | *(chờ)* | Do người dùng (đề xuất) |
-| 2 | Hệ thống | *(chờ Người 4)* | *(chờ)* | Hệ thống (đề xuất) |
-| 3 | Ngữ cảnh | *(chờ Người 4)* | *(chờ)* | Ngữ cảnh (đề xuất) |
-| 4 | Giới hạn hệ thống | *(chờ Người 4)* | *(chờ)* | Giới hạn hệ thống (đề xuất) |
-| 5 | Ngầm | *(chờ Người 4)* | *(chờ)* | Ngầm (đề xuất) |
-| 6 | Do người dùng | *(chờ Người 4)* | *(chờ)* | Do người dùng (đề xuất) |
-| 7 | Hệ thống | *(chờ Người 4)* | *(chờ)* | Hệ thống (đề xuất) |
-| 8 | Hệ thống | *(chờ Người 4)* | *(chờ)* | Hệ thống (đề xuất) |
-| 9 | Do người dùng | *(chờ Người 4)* | *(chờ)* | Do người dùng (đề xuất) |
-| 10 | Ngữ cảnh | *(chờ Người 4)* | *(chờ)* | Ngữ cảnh (đề xuất) |
-| 11 | Giới hạn hệ thống | *(chờ Người 4)* | *(chờ)* | Giới hạn hệ thống (đề xuất) |
-| 12 | Ngầm | *(chờ Người 4)* | *(chờ)* | Ngầm (đề xuất) |
-| 13 | Giới hạn hệ thống | *(chờ Người 4)* | *(chờ)* | Giới hạn hệ thống (đề xuất) |
-| 14 | Do người dùng | *(chờ Người 4)* | *(chờ)* | Do người dùng (đề xuất) |
-| 15 | Hệ thống | *(chờ Người 4)* | *(chờ)* | Hệ thống (đề xuất) |
-| 16 | Ngữ cảnh | *(chờ Người 4)* | *(chờ)* | Ngữ cảnh (đề xuất) |
-| 17 | Ngầm | *(chờ Người 4)* | *(chờ)* | Ngầm (đề xuất) |
-| 18 | Ngữ cảnh | *(chờ Người 4)* | *(chờ)* | Ngữ cảnh (đề xuất) |
-| 19 | Giới hạn hệ thống | *(chờ Người 4)* | *(chờ)* | Giới hạn hệ thống (đề xuất) |
-| 20 | Hệ thống | *(chờ Người 4)* | *(chờ)* | Hệ thống (đề xuất) |
+| 1 | Do người dùng | Do người dùng | Trùng | Do người dùng |
+| 2 | Hệ thống | Hệ thống | Trùng | Hệ thống |
+| 3 | Ngữ cảnh | Ngữ cảnh | Trùng | Ngữ cảnh |
+| 4 | Giới hạn hệ thống | Giới hạn hệ thống | Trùng | Giới hạn hệ thống |
+| 5 | Ngầm | Ngầm | Trùng | Ngầm |
+| 6 | Do người dùng | Do người dùng | Trùng | Do người dùng |
+| 7 | Hệ thống | Hệ thống | Trùng | Hệ thống |
+| 8 | Hệ thống | Hệ thống | Trùng | Hệ thống |
+| 9 | Do người dùng | Do người dùng | Trùng | Do người dùng |
+| 10 | Ngữ cảnh | Ngữ cảnh | Trùng | Ngữ cảnh |
+| 11 | Giới hạn hệ thống | Giới hạn hệ thống | Trùng | Giới hạn hệ thống |
+| 12 | Ngầm | Ngầm | Trùng | Ngầm |
+| 13 | Giới hạn hệ thống | Giới hạn hệ thống | Trùng | Giới hạn hệ thống |
+| 14 | Do người dùng | Do người dùng | Trùng | Do người dùng |
+| 15 | Hệ thống | Hệ thống | Trùng | Hệ thống |
+| 16 | Ngữ cảnh | Ngữ cảnh | Trùng | Ngữ cảnh |
+| 17 | Ngầm | Ngầm | Trùng | Ngầm |
+| 18 | Ngữ cảnh | Ngữ cảnh | Trùng | Ngữ cảnh |
+| 19 | Giới hạn hệ thống | Giới hạn hệ thống | Trùng | Giới hạn hệ thống |
+| 20 | Hệ thống | Hệ thống | Trùng | Hệ thống |
 
 Ghi chú nhãn Người 1 (theo nguyên nhân gốc):
 - Ca 1, 6, 9, 14: đầu vào của khách sai (thiếu số, chọn sai mục, sai mã, bấm nhầm) — việc trợ lý không gợi ý hay không phát hiện là điểm cải thiện, thuộc cột khắc phục, không đổi nhãn.
@@ -36,11 +36,11 @@ Ghi chú nhãn Người 1 (theo nguyên nhân gốc):
 - Ca 4, 11, 13, 19: không thể trả lời — thiếu dữ liệu, ngoài phạm vi, đầu vào không xử lý được; ngoài phạm vi là giới hạn dù trợ lý xử lý kém (ca 13).
 - Ca 5, 12, 17: sai (tiền, chi phí, dữ liệu) nhưng không ai nhận ra cho tới khi kiểm tra mẫu; "sai" có thể là sai về chi phí, không chỉ về câu trả lời.
 
-**Tỉ lệ đồng thuận:** *(chờ bộ nhãn Người 4)* / 20 = ...% — yêu cầu đạt từ 16/20 (80%); nếu thấp hơn, nhóm viết lại định nghĩa loại trước khi đi tiếp.
+**Tỉ lệ đồng thuận:** 20/20 = 100% — đạt mốc từ 16/20 (80%); không có ca bất đồng nên không cần viết lại định nghĩa loại.
 
 ## Quy tắc phân biệt cho các ca không trùng
 
-Mỗi ca không trùng một câu. Dưới đây là bộ quy tắc đã chuẩn bị sẵn cho các ca dễ lẫn, dùng khi so với bộ nhãn Người 4:
+Hai bộ nhãn trùng 20/20 nên không có ca bất đồng phải thống nhất lại; cách xử lý bất đồng đã chuẩn bị: mỗi ca không trùng một câu, nếu đồng thuận dưới 80% thì viết lại định nghĩa loại trước khi đi tiếp. Bộ quy tắc dưới đây vẫn giữ lại như tài liệu phân biệt các ca dễ lẫn (dùng khi có ca mới tương tự):
 
 - Ca 6, 9 là **do người dùng**, không phải hệ thống: gốc lỗi là khách chọn sai mục hoặc nhập sai mã; việc trợ lý không gợi ý là việc cần cải thiện, nằm ở cột khắc phục.
 - Ca 13 là **giới hạn hệ thống**: ngoài phạm vi thì là giới hạn, kể cả khi trợ lý xử lý giới hạn đó kém.

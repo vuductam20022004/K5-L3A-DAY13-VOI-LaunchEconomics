@@ -23,7 +23,7 @@
 
 ## 4. Bằng chứng
 
-- [Bảng lỗi và cách khắc phục](bang_loi.md): hai bộ nhãn, tỉ lệ đồng thuận (chờ bộ nhãn Người 4 để chốt cột 2 và tỉ lệ), quy tắc phân biệt, bảng khắc phục 5 ca đủ năm loại.
+- [Bảng lỗi và cách khắc phục](bang_loi.md): hai bộ nhãn độc lập, tỉ lệ đồng thuận 20/20 = 100%, quy tắc phân biệt, bảng khắc phục 5 ca đủ năm loại.
 - [Phiếu duyệt chéo](phieu_cham.md): chờ kết quả Gate 2a thực tế tại buổi để ghi.
 - Chạy `src/lab13.py` trên hai CSV gốc: A1 ĐẠT; A2 ghi nhận 978/1.200 việc thành công, chi phí 4.472 đ/việc [simulated]; A3 khớp số trong `bang_chi_phi.md`.
 
@@ -33,4 +33,4 @@
 
 ## 6. Tự đánh giá
 
-- Phần lõi C (bộ nhãn Người 3, quy tắc phân biệt, bảng khắc phục 5 ca) đã hoàn thành và nhất quán với phạm vi pilot trong `pilot_plan.yaml` (loại quoc_te, ca 4). Tỉ lệ đồng thuận và cột nhãn Người 4 để đúng mốc chờ, không gán thay. Phiếu duyệt chéo chỉ điền được sau khi có kết quả Gate 2a thực tế tại buổi.
+- Phần lõi C hoàn chỉnh: bộ nhãn Người 3, đối chiếu với bộ nhãn Người 4 đạt 20/20 = 100% (vượt mốc 80%), quy tắc phân biệt, bảng khắc phục 5 ca — và nhất quán với phạm vi pilot trong `pilot_plan.yaml` (loại quoc_te, ca 4; luật dừng 1 đã thêm điều kiện chặn hoàn trùng ca 20 theo Người 4). Còn lại: phiếu duyệt chéo chỉ điền được sau kết quả Gate 2a thực tế tại buổi.
